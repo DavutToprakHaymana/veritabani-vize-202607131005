@@ -8,7 +8,7 @@
 
 **Kullandığım veritabanı:** ☐ `llm_ops`  ☒ `robot_fleet`
 
-**PR bağlantısı:** `https://github.com/DavutToprakHaymana/veritabani-vize-202607131005/pull/` ______
+**PR bağlantısı:** `https://github.com/DavutToprakHaymana/veritabani-vize-202607131005/pull/2
 
 **Commit sayısı:** ______
 
